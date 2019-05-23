@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Art Of War</string>
+
+    <string name="battleField">Battle Field</string>
+    <string name="playersDeck">Deck</string>
+
 </resources>
